@@ -1,0 +1,36 @@
+form#original_post_ranking_widget_form table th {
+	width: 15%;
+}
+form#original_post_ranking_widget_form table td {
+	vertical-align: top;
+}
+form#original_post_ranking_widget_form table td.example {
+	width: 30%;
+	color: #777;
+}
+form#original_post_ranking_widget_form table td.example div.code {
+	background: #FCFCFC;
+	border: 1px solid #DFDFDF;
+	padding: 7px 5px;
+}
+
+
+
+body.widgets-php .original-post-ranking-widget-ranklists .list .ranking-list {
+	padding: 0.2em 1em;
+	border: 1px solid #DFDFDF;
+	background: #FCFCFC;
+	margin: 0 0 2px 0;
+	border-radius: 3px;
+	position: relative;
+	cursor: move;
+}
+body.widgets-php .original-post-ranking-widget-ranklists .list .ranking-list .alignright {
+	padding: 5px;
+}
+body.widgets-php .original-post-ranking-widget-ranklists .list .ranking-list.Created {
+	background: #FC0;
+}
+body.widgets-php .original-post-ranking-widget-ranklists .list .ranking-list.Deleted {
+	background: #C30;
+}

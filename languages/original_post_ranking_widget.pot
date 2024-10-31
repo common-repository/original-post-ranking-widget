@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-14 09:27+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Last-Translator: \n"
+
+msgid "To view the post ranking in the form of a widget."
+msgstr ""
+
+msgid "Original Post Ranking Widget"
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid "Widget template setting"
+msgstr ""
+
+msgid "Would initialize?"
+msgstr ""
+
+msgid "Example"
+msgstr ""
+
+msgid "Ranking Loop"
+msgstr ""
+
+msgid "before_ranking_loop"
+msgstr ""
+
+msgid "after_ranking_loop"
+msgstr ""
+
+msgid "entry_title"
+msgstr ""
+
+msgid "entry_date"
+msgstr ""
+
+msgid "entry_thumbnails"
+msgstr ""
+
+msgid "entry_category"
+msgstr ""
+
+msgid "entry_excerpt"
+msgstr ""
+
+msgid "excerpt_length"
+msgstr ""
+
+msgid "Ranking"
+msgstr ""
+
+msgid "Add post ID"
+msgstr ""
+
+msgid "Original Post Ranking"
+msgstr ""
+
+msgid "Widget to create a ranking of the original"
+msgstr ""
+
